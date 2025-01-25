@@ -1,0 +1,11 @@
+fastapi
+openai
+qdrant-client
+langchain-qdrant
+langchain-huggingface
+PyPDF2
+langchain
+flashrank
+uvicorn
+langchain-community
+sentence-transformers
